@@ -89,13 +89,5 @@ Key libraries include:
 
 ---
 
-## Contributing
-Feel free to fork the repository and submit pull requests for improvements.
 
----
-
-## Contact
-For questions or feedback, reach out to [Your Email/Contact Information].
-
----
 
